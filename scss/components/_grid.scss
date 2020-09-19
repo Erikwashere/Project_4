@@ -23,7 +23,7 @@
 }
 
 .theme.col-1 {
-  background-color: #927bc1;
+  background-color: $info_btn;
 }
 
 .theme.col-2 {
@@ -55,11 +55,11 @@
 }
 
 .theme.col-9 {
-  background-color: #e4757a;
+  background-color: $error_btn;
 }
 
 .theme.col-10 {
-  background-color: #63cc82;
+  background-color: $success_btn;
 }
 
 .theme.col-11 {
